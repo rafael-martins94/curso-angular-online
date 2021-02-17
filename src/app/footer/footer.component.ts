@@ -7,7 +7,7 @@ import { Component, OnInit } from '@angular/core';
 })
 export class FooterComponent implements OnInit {
 
-    cabecalho = "Cabeçalho da Pagina"
+    cabecalho = "Cabeçalho da Home"
 
     constructor() { }
 
